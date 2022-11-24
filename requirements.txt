@@ -14,7 +14,7 @@ Platypus==1.0
 Platypus-Opt==1.1.0
 plotly==5.6.0
 ply==3.11
-PRIM==0.1.0
+PRIM==0.5.0
 pydot==1.2.0
 SALib==1.4.6
 scikit-image==0.19.2
