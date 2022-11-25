@@ -2,6 +2,7 @@ matplotlib
 numpy
 pandas==0.23.4
 mpldatacursor
+seaborn
 six
 scipy
 prim
